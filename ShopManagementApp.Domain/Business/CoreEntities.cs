@@ -1,0 +1,2 @@
+namespace ShopManagementApp.Domain.Business;
+

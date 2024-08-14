@@ -1,0 +1,15 @@
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/bin/Debug/net8.0/ShopManagementApp.Common.deps.json
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/bin/Debug/net8.0/ShopManagementApp.Common.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/bin/Debug/net8.0/ShopManagementApp.Common.pdb
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/bin/Debug/net8.0/ShopManagementApp.Domain.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/bin/Debug/net8.0/ShopManagementApp.Domain.pdb
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.csproj.AssemblyReference.cache
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.AssemblyInfoInputs.cache
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.AssemblyInfo.cs
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.csproj.CoreCompileInputs.cache
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopMana.CBA96F5A.Up2Date
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/refint/ShopManagementApp.Common.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ShopManagementApp.Common.pdb
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/Debug/net8.0/ref/ShopManagementApp.Common.dll

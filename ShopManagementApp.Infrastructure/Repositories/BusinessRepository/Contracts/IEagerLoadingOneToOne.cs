@@ -1,0 +1,23 @@
+using ShopManagementApp.Domain.Business;
+
+namespace ShopManagementApp.Infrastructure.Contracts;
+
+public partial interface IBusinessRepository
+{
+    Task<Get_Setup_By_Properties_Response> Get_Setup_By_Properties_Eager1To1(Params_Get_Setup_By_Properties i_Params_Get_Setup_By_Properties);
+    Task<IEnumerable<Setup>> Get_Setup_By_SETUP_CATEGORY_ID_Eager1To1(Params_Get_Setup_By_SETUP_CATEGORY_ID i_Params_Get_Setup_By_SETUP_CATEGORY_ID);
+    Task<IEnumerable<Setup>> Get_Setup_By_SETUP_CATEGORY_ID_List_Eager1To1(Params_Get_Setup_By_SETUP_CATEGORY_ID_List i_Params_Get_Setup_By_SETUP_CATEGORY_ID_List);
+    Task<Setup> Get_Setup_By_SETUP_CATEGORY_ID_VALUE_Eager1To1(Params_Get_Setup_By_SETUP_CATEGORY_ID_VALUE i_Params_Get_Setup_By_SETUP_CATEGORY_ID_VALUE);
+    Task<Setup> Get_Setup_By_SETUP_ID_Eager1To1(Params_Get_Setup_By_SETUP_ID i_Params_Get_Setup_By_SETUP_ID);
+    Task<IEnumerable<Setup>> Get_Setup_By_SETUP_ID_List_Eager1To1(Params_Get_Setup_By_SETUP_ID_List i_Params_Get_Setup_By_SETUP_ID_List);
+    Task<IEnumerable<Setup>> Get_Setup_By_TENANT_ID_Eager1To1(Params_Get_Setup_By_TENANT_ID i_Params_Get_Setup_By_TENANT_ID);
+    Task<User> Get_User_By_EMAIL_TENANT_ID_Eager1To1(Params_Get_User_By_EMAIL_TENANT_ID i_Params_Get_User_By_EMAIL_TENANT_ID);
+    Task<Get_User_By_Properties_Response> Get_User_By_Properties_Eager1To1(Params_Get_User_By_Properties i_Params_Get_User_By_Properties);
+    Task<IEnumerable<User>> Get_User_By_TENANT_ID_Eager1To1(Params_Get_User_By_TENANT_ID i_Params_Get_User_By_TENANT_ID);
+    Task<IEnumerable<User>> Get_User_By_TENANT_ID_IS_DELETED_Eager1To1(Params_Get_User_By_TENANT_ID_IS_DELETED i_Params_Get_User_By_TENANT_ID_IS_DELETED);
+    Task<User> Get_User_By_USER_ID_Eager1To1(Params_Get_User_By_USER_ID i_Params_Get_User_By_USER_ID);
+    Task<IEnumerable<User>> Get_User_By_USER_ID_List_Eager1To1(Params_Get_User_By_USER_ID_List i_Params_Get_User_By_USER_ID_List);
+    Task<IEnumerable<User>> Get_User_By_USER_TYPE_SETUP_ID_Eager1To1(Params_Get_User_By_USER_TYPE_SETUP_ID i_Params_Get_User_By_USER_TYPE_SETUP_ID);
+    Task<IEnumerable<User>> Get_User_By_USER_TYPE_SETUP_ID_List_Eager1To1(Params_Get_User_By_USER_TYPE_SETUP_ID_List i_Params_Get_User_By_USER_TYPE_SETUP_ID_List);
+    Task<User> Get_User_By_USERNAME_TENANT_ID_Eager1To1(Params_Get_User_By_USERNAME_TENANT_ID i_Params_Get_User_By_USERNAME_TENANT_ID);
+}

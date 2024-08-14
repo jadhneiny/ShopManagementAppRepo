@@ -1,0 +1,11 @@
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/bin/Debug/net8.0/ShopManagementApp.Domain.deps.json
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/bin/Debug/net8.0/ShopManagementApp.Domain.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/bin/Debug/net8.0/ShopManagementApp.Domain.pdb
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.AssemblyInfoInputs.cache
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.AssemblyInfo.cs
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.csproj.CoreCompileInputs.cache
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/refint/ShopManagementApp.Domain.dll
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ShopManagementApp.Domain.pdb
+/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/Debug/net8.0/ref/ShopManagementApp.Domain.dll

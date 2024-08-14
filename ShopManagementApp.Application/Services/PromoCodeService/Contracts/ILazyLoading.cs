@@ -1,0 +1,13 @@
+using ShopManagementApp.Domain.PromoCode;
+
+namespace ShopManagementApp.Application.Contracts;
+
+public partial interface IPromoCodeService
+{
+    Task<Promo_codes> Get_Promo_codes_By_PROMO_CODES_ID(Params_Get_Promo_codes_By_PROMO_CODES_ID i_Params_Get_Promo_codes_By_PROMO_CODES_ID);
+    Task<IEnumerable<Promo_codes>> Get_Promo_codes_By_PROMO_CODES_ID_List(Params_Get_Promo_codes_By_PROMO_CODES_ID_List i_Params_Get_Promo_codes_By_PROMO_CODES_ID_List);
+    Task<Get_Promo_codes_By_Properties_Response> Get_Promo_codes_By_Properties(Params_Get_Promo_codes_By_Properties i_Params_Get_Promo_codes_By_Properties);
+    Task<IEnumerable<Promo_codes>> Get_Promo_codes_By_TENANT_ID(Params_Get_Promo_codes_By_TENANT_ID i_Params_Get_Promo_codes_By_TENANT_ID);
+    Task<IEnumerable<Promo_codes>> Get_Promo_codes_By_TENANTS_ID(Params_Get_Promo_codes_By_TENANTS_ID i_Params_Get_Promo_codes_By_TENANTS_ID);
+    Task<IEnumerable<Promo_codes>> Get_Promo_codes_By_TENANTS_ID_List(Params_Get_Promo_codes_By_TENANTS_ID_List i_Params_Get_Promo_codes_By_TENANTS_ID_List);
+}
