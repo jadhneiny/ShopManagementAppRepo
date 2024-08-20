@@ -76,3 +76,6 @@
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/ShopManagementApp.Playground.pdb
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/ShopManagementApp.Playground.genruntimeconfig.cache
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/ref/ShopManagementApp.Playground.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/ShopManagementApp.Playground.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/refint/ShopManagementApp.Playground.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/Debug/net8.0/ShopManagementApp.Playground.pdb

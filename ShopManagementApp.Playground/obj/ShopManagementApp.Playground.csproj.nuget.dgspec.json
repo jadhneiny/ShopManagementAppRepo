@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj": {}
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj": {}
   },
   "projects": {
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj",
         "projectName": "ShopManagementApp.Application",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj"
               },
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj"
               }
             }
           }
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj",
         "projectName": "ShopManagementApp.Common",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -91,8 +86,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
               }
             }
           }
@@ -101,11 +96,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -141,21 +131,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj",
         "projectName": "ShopManagementApp.CrossCuttingConcerns",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/ShopManagementApp.CrossCuttingConcerns.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.CrossCuttingConcerns/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -167,11 +157,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj"
               },
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
               }
             }
           }
@@ -180,11 +170,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -232,21 +217,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
         "projectName": "ShopManagementApp.Domain",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -264,11 +249,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -290,21 +270,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj",
         "projectName": "ShopManagementApp.Infrastructure",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/ShopManagementApp.Infrastructure.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -316,11 +296,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Common/ShopManagementApp.Common.csproj"
               },
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj"
               }
             }
           }
@@ -329,11 +309,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -365,21 +340,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj": {
+    "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj",
+        "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj",
         "projectName": "ShopManagementApp.Playground",
-        "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj",
-        "packagesPath": "/home/smartr/.nuget/packages/",
-        "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/",
+        "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/ShopManagementApp.Playground.csproj",
+        "packagesPath": "/config/.nuget/packages/",
+        "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Playground/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smartr/.nuget/NuGet/NuGet.Config"
+          "/config/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -391,8 +366,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj": {
-                "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj"
+              "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj": {
+                "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Application/ShopManagementApp.Application.csproj"
               }
             }
           }
@@ -401,11 +376,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -427,7 +397,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

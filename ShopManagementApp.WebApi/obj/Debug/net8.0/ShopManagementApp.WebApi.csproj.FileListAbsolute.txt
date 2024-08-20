@@ -98,3 +98,6 @@
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/ShopManagementApp.WebApi.pdb
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/ShopManagementApp.WebApi.genruntimeconfig.cache
 /home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/ref/ShopManagementApp.WebApi.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/ShopManagementApp.WebApi.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/refint/ShopManagementApp.WebApi.dll
+/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.WebApi/obj/Debug/net8.0/ShopManagementApp.WebApi.pdb

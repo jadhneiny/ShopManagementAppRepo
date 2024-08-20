@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/smartr/.nuget/packages/": {}
+    "/config/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
+      "projectUniqueName": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
       "projectName": "ShopManagementApp.Domain",
-      "projectPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
-      "packagesPath": "/home/smartr/.nuget/packages/",
-      "outputPath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/",
+      "projectPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
+      "packagesPath": "/config/.nuget/packages/",
+      "outputPath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/smartr/.nuget/NuGet/NuGet.Config"
+        "/config/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

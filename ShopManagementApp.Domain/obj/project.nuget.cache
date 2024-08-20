@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEkdqFZND30=",
+  "dgSpecHash": "1h8faIb2jMD/F2id7PmoacU74ncodcDTfVp5QgMA8nnhiQ9G6KrbH9sM0vOYynI2Ggzql+Jnfq4zyC/J/Uz/aA==",
   "success": true,
-  "projectFilePath": "/home/smartr/Smartr_Users/jad/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
+  "projectFilePath": "/config/workspace/Instant_Apps/Monolithic_Instant_Apps/ShopManagementApp_2024_08_08_09_52_25_788/ShopManagementApp.Domain/ShopManagementApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,6 @@
 namespace ShopManagementApp.Application.Services
 {
-    public partial class OrderService
+    public partial class OrderService;
     {
         private void PostConstruct()
         {

@@ -1,4 +1,4 @@
-namespace ShopManagementApp.Application.Services
+namespace ShopManagementApp.Application.Services;
 {
     public partial class PromoCodeService
     {
